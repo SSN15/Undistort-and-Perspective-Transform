@@ -1,4 +1,3 @@
-# Undistort-and-Perspective-Transform
 ![original](https://github.com/SSN15/Undistort-and-Perspective-Transform/blob/master/original.png)
 The goal is to generate output like the image shown above. To do that, we need to write a function that takes your distorted image as input and completes the following steps:
 
